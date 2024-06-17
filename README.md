@@ -1,3 +1,3 @@
 This is my first git repository demo.
 <br>
-Author - Mohnish koshti 
+Author - Mohnish (Developer) 
